@@ -18,7 +18,7 @@ Before using **catmd**, make sure you have Go installed on your system.
 ### Installation
 
 ```bash
-go install -v github.com/mk990/catmd
+go install -v github.com/mk990/catmd@latest
 ```
 
 ### Usage
